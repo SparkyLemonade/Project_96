@@ -1,0 +1,27 @@
+#logout_button {
+    margin-top:20px;
+    margin-left:1400px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    text-align:center;
+ }
+
+ #msg {
+    background-color:darkslateblue;
+ }
+
+ #msg_input {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top:20px;
+    width:1530px;
+    margin-left:2px;
+    background-color:lightblue;
+    color:midnightblue;
+}
+
+#send_button {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top:20px;
+}

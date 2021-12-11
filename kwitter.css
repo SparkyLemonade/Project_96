@@ -1,0 +1,47 @@
+body{
+    text-align:center;
+    margin-top:100px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: darkorchid;
+}
+
+#user_name{
+    width:1450px;
+}
+
+
+
+#div2 {
+    background-color:cyan;
+    width:1560px;
+    height:600px;
+    margin-top:20px;
+}
+
+#div2 img{
+    height:300px;
+    width:300px;
+    border-radius:100px;
+    margin-top:15px;
+    
+   
+}
+
+#div2 h1 {
+    margin-top:30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+button {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#user_name{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top:20px;
+    margin-left:30px;
+}
+
+#div1 {
+    background-color:darkgoldenrod;
+}

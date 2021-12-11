@@ -1,0 +1,28 @@
+body {
+   text-align:center;
+    
+}
+
+html {
+    background-color:deepskyblue;
+}
+
+
+
+
+#room_name {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top:20px;
+    width:1530px;
+    margin-left:2px;
+}
+
+#logout_button {
+    margin-top:20px;
+    margin-left:1400px;
+}
+
+label {
+    color:darkblue;
+    margin-left:800px;
+}
